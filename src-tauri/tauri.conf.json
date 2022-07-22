@@ -7,8 +7,8 @@
     "distDir": "../public"
   },
   "package": {
-    "productName": "bible",
-    "version": "0.1.0"
+    "productName": "Bible.com | YouVersion, the Bible App",
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -17,7 +17,7 @@
     "bundle": {
       "active": true,
       "category": "DeveloperTool",
-      "copyright": "",
+      "copyright": "Bible.com | YouVersion, the Bible App",
       "deb": {
         "depends": []
       },
@@ -29,8 +29,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
-      "longDescription": "",
+      "identifier": "bible.com",
+      "longDescription": "Bring the beauty and truth of the Bible into everyday life. With the YouVersion Bible App, you can read, watch, listen, and share on your smartphone or tablet, and online at Bible.com.",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
@@ -39,7 +39,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "YouVersion, the Bible App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "Bible",
+        "title": "Bible.com | YouVersion, the Bible App",
         "width": 800
       }
     ]
