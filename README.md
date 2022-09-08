@@ -1,1 +1,0 @@
-# Bible.com | YouVersion, the Bible App
